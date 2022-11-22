@@ -8,8 +8,7 @@ calificar
 .. image:: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal.png
    :target: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal
    :alt: Latest Travis CI build status
-
-An opinionated, minimal cookiecutter template for Python packages
+Permite calificar talleres en python
 
 Usage
 -----
