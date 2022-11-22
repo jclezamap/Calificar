@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="calificar",
-    version="1.1",
+    version="1.2",
     url="https://github.com/jclezamap/Calificar",
     license='MIT',
 
