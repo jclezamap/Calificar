@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: calificar
+Version: 1.1
+Summary: Califica los Talleres desde Python
+Home-page: https://github.com/jclezamap/Calificar
+Author: Juan Carlos Lezama
+Author-email: jclezamap@gmail.com
+License: MIT
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE
+
+calificar
+=========
+
+.. image:: https://img.shields.io/pypi/v/calificar.svg
+    :target: https://pypi.python.org/pypi/calificar
+    :alt: Latest PyPI version
+
+.. image:: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal.png
+   :target: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal
+   :alt: Latest Travis CI build status
+
+An opinionated, minimal cookiecutter template for Python packages
+
+Usage
+-----
+
+Installation
+------------
+
+Requirements
+^^^^^^^^^^^^
+
+Compatibility
+-------------
+
+Licence
+-------
+
+Authors
+-------
+
+`calificar` was written by `Juan Carlos Lezama <jclezamap@gmail.com>`_.

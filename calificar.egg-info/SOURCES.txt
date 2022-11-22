@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+setup.py
+calificar/__init__.py
+calificar/economiafinanciera.py
+calificar.egg-info/PKG-INFO
+calificar.egg-info/SOURCES.txt
+calificar.egg-info/dependency_links.txt
+calificar.egg-info/top_level.txt
