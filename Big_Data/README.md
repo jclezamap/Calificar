@@ -1,6 +1,6 @@
 # Talleres de Big Data
 
-### 📝 Taller 1 (Asignado: 26/08/2026)
+### 📝 Taller 1 (Asignado: 27/08/2026)
 - [Tema 1](./Taller_1/Tema_1.md)
 - [Tema 10](./Taller_1/Tema_10.md)
 - [Tema 11](./Taller_1/Tema_11.md)
