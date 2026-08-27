@@ -12,7 +12,7 @@ import pandas as pd
 import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 
-# Reemplace 'ID' por su código estudiantil, si son dos se separa por ;, así: '1026;1027' y 'G' por su número de grupo.
+# Reemplace 'ID' por su código estudiantil, si son dos se separa por ;, así: '20261026;20261027' y 'G' por su número de grupo.
 taller = cr.taller('ID', G, 'taller1BD2026ii', 10)
 #GIT para validación de funciones de este taller: https://raw.githubusercontent.com/jclezamap/calificar/refs/heads/main/Big_Data/Taller_1
 #Para usar la libreria evafunciones, se coloca la URL dada y el Grupo.
