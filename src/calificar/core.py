@@ -43,7 +43,7 @@ class taller:
             'python': 1
         }
         try:
-            url = f'https://www.economiafinanciera.com.co/indexdes.php?app=excel&modulo=taller&accion=respuestas&Actividad={self.taller}'
+            url = f'https://www.economiafinanciera.com.co/index.php?app=excel&modulo=taller&accion=respuestas&Actividad={self.taller}'
             resp = requests.post(url, data=datos)
             partes = resp.text.split("|")
             if len(partes) >= 3:
