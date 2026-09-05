@@ -1,5 +1,563 @@
 {
-  "tema_30": {
+  "tema_1": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            4
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      },
+      "expected": 40,
+      "codigo_oculto": "1001",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_2": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        "B": [
+          [
+            4,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "expected": 23,
+      "codigo_oculto": "1002",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_3": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        "B": [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      "expected": 30,
+      "codigo_oculto": "1003",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_4": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "B": [
+          [
+            4,
+            1
+          ],
+          [
+            2,
+            4
+          ]
+        ]
+      },
+      "expected": 25,
+      "codigo_oculto": "1004",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_5": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            3
+          ],
+          [
+            3,
+            1
+          ]
+        ],
+        "B": [
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "expected": 32,
+      "codigo_oculto": "1005",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_6": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        "B": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      },
+      "expected": 24,
+      "codigo_oculto": "1006",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_7": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      "expected": 18,
+      "codigo_oculto": "1007",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_8": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      },
+      "expected": 18,
+      "codigo_oculto": "1008",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_9": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            3
+          ],
+          [
+            1,
+            3
+          ]
+        ],
+        "B": [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      },
+      "expected": 26,
+      "codigo_oculto": "1009",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_10": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            1
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        "B": [
+          [
+            1,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      "expected": 21,
+      "codigo_oculto": "1010",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_11": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ]
+      },
+      "expected": 29,
+      "codigo_oculto": "1011",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_12": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            3
+          ]
+        ],
+        "B": [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      },
+      "expected": 20,
+      "codigo_oculto": "1012",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_13": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            4
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "B": [
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ]
+        ]
+      },
+      "expected": 31,
+      "codigo_oculto": "1013",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_14": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "expected": 23,
+      "codigo_oculto": "1014",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_15": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            2
+          ]
+        ]
+      },
+      "expected": 15,
+      "codigo_oculto": "1015",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_16": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      "expected": 26,
+      "codigo_oculto": "1016",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_17": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            2
+          ],
+          [
+            3,
+            2
+          ]
+        ]
+      },
+      "expected": 30,
+      "codigo_oculto": "1017",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_18": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            2
+          ]
+        ],
+        "B": [
+          [
+            2,
+            1
+          ],
+          [
+            1,
+            1
+          ]
+        ]
+      },
+      "expected": 10,
+      "codigo_oculto": "1018",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_19": {
     "mi_operacion": {
       "inputs": {
         "A": [
@@ -8,8 +566,318 @@
             1
           ],
           [
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            2
+          ]
+        ]
+      },
+      "expected": 22,
+      "codigo_oculto": "1019",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_20": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ],
+        "B": [
+          [
             3,
             1
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      "expected": 18,
+      "codigo_oculto": "1020",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_21": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "B": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "expected": 20,
+      "codigo_oculto": "1021",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_22": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            4
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ]
+      },
+      "expected": 27,
+      "codigo_oculto": "1022",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_23": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            3
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            4
+          ]
+        ]
+      },
+      "expected": 31,
+      "codigo_oculto": "1023",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_24": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            1
+          ]
+        ],
+        "B": [
+          [
+            4,
+            2
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      "expected": 27,
+      "codigo_oculto": "1024",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_25": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            4
+          ],
+          [
+            1,
+            2
+          ]
+        ],
+        "B": [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            3
+          ]
+        ]
+      },
+      "expected": 19,
+      "codigo_oculto": "1025",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_26": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            3
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        "B": [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            3
+          ]
+        ]
+      },
+      "expected": 31,
+      "codigo_oculto": "1026",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_27": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            4
+          ],
+          [
+            3,
+            4
+          ]
+        ],
+        "B": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            4
+          ]
+        ]
+      },
+      "expected": 45,
+      "codigo_oculto": "1027",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_28": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            3
+          ],
+          [
+            4,
+            1
+          ]
+        ]
+      },
+      "expected": 15,
+      "codigo_oculto": "1028",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_29": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            3,
+            1
+          ],
+          [
+            2,
+            3
           ]
         ],
         "B": [
@@ -23,7 +891,38 @@
           ]
         ]
       },
-      "expected": 25,
+      "expected": 21,
+      "codigo_oculto": "1029",
+      "meta": {
+        "type": "scalar"
+      }
+    }
+  },
+  "tema_30": {
+    "mi_operacion": {
+      "inputs": {
+        "A": [
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "B": [
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            4
+          ]
+        ]
+      },
+      "expected": 11,
       "codigo_oculto": "1030",
       "meta": {
         "type": "scalar"
